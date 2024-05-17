@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.Travel.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.Travel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.Travel.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.Travel.Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.Travel.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\bin\Debug\net8.0\D1Tech.Travel.Application.deps.json
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\bin\Debug\net8.0\D1Tech.Travel.Application.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\bin\Debug\net8.0\D1Tech.Travel.Application.pdb
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\bin\Debug\net8.0\D1Tech.Travel.Domain.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\bin\Debug\net8.0\D1Tech.Travel.Domain.pdb
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.T.BC1C06B9.Up2Date
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.Travel.Application.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\refint\D1Tech.Travel.Application.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\D1Tech.Travel.Application.pdb
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\obj\Debug\net8.0\ref\D1Tech.Travel.Application.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\bin\Debug\net8.0\D1Tech.Travel.Infrastructure.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Application\bin\Debug\net8.0\D1Tech.Travel.Infrastructure.pdb

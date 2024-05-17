@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\bin\Debug\net8.0\D1Tech.Travel.Domain.deps.json
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\bin\Debug\net8.0\D1Tech.Travel.Domain.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\bin\Debug\net8.0\D1Tech.Travel.Domain.pdb
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\D1Tech.Travel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\D1Tech.Travel.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\D1Tech.Travel.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\D1Tech.Travel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\D1Tech.Travel.Domain.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\refint\D1Tech.Travel.Domain.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\D1Tech.Travel.Domain.pdb
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\Travel\D1Tech.Travel.Domain\obj\Debug\net8.0\ref\D1Tech.Travel.Domain.dll

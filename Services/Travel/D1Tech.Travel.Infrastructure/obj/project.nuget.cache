@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+2Y2MVJkExq5c4l5GZ/eAwCFQG6FkZphPnl5pzA+dmN8lPWzL3WkVyvv/IEhaRheaOBde0p8LQbe8eStLKcQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\D1Tech\\D1Tech\\Services\\Travel\\D1Tech.Travel.Infrastructure\\D1Tech.Travel.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\flurl\\4.0.0\\flurl.4.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\flurl.http\\4.0.2\\flurl.http.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

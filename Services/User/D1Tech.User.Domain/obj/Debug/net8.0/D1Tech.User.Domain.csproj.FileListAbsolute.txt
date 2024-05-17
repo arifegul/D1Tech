@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\bin\Debug\net8.0\D1Tech.User.Domain.deps.json
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\bin\Debug\net8.0\D1Tech.User.Domain.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\bin\Debug\net8.0\D1Tech.User.Domain.pdb
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\D1Tech.User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\D1Tech.User.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\D1Tech.User.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\D1Tech.User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\D1Tech.User.Domain.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\refint\D1Tech.User.Domain.dll
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\D1Tech.User.Domain.pdb
+C:\Users\HP\Desktop\D1Tech\D1Tech\Services\User\D1Tech.User.Domain\obj\Debug\net8.0\ref\D1Tech.User.Domain.dll
